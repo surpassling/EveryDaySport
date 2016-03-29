@@ -4,7 +4,7 @@
 
 EveryDaySport 灵感来自 *[sofish](https://www.github.com/sofish)* 的 [天天写代码计划](https://github.com/sofish/everyday)。
 
-### 二、为什么建立这个计划
+### 二、为什么建立这个计划zhiyi
 
 
 身体不好是废品，代码写的再好，你也得要有个强健的体魄。难道你想30岁就把身体搞垮？考虑程序员这个群体的特殊性，希望与广大程序员共勉，找到一个循序渐进的锻炼方法，立此计划。
